@@ -18,9 +18,4 @@
         }
     },
     "tag": "1.0-stable"
-    // "extra": {
-    //     "branch-alias": {
-    //         "master": "1.0-stable"
-    //     }
-    // }
 }
