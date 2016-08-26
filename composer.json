@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "DesignPatterns\\": ""
+            "design-patterns-php\\": ""
         }
     },
     "version": "1.0.5-stable"
